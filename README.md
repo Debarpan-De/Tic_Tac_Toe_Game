@@ -6,6 +6,7 @@ Features
   2. Turn-based gameplay
   3. Winner detection
   4. Reset and New Game buttons
+
 Technologies Used
   1. HTML
   2. CSS
